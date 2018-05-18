@@ -1,11 +1,10 @@
-/**********************************************************************/
-README - Designer Clock
+# Designer Clock
+## by Theodor Marcu
 
-by Theodor Marcu
+* marcu.theodor@gmail.com
+* tmarcu@princeton.edu
 
-marcu.theodor@gmail.com
-tmarcu@princeton.edu
-/**********************************************************************/
+[Clock Image]()
 
 To open, simply open index.html into your web browser. This is a
 P5.js project.
